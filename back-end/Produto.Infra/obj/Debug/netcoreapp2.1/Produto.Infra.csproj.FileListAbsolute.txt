@@ -1,0 +1,12 @@
+C:\Personal\crudProdutos\projetoProduto\Produto.Infra\bin\Debug\netcoreapp2.1\Produto.Infra.deps.json
+C:\Personal\crudProdutos\projetoProduto\Produto.Infra\bin\Debug\netcoreapp2.1\Produto.Infra.dll
+C:\Personal\crudProdutos\projetoProduto\Produto.Infra\bin\Debug\netcoreapp2.1\Produto.Infra.pdb
+C:\Personal\crudProdutos\projetoProduto\Produto.Infra\bin\Debug\netcoreapp2.1\Produto.Domain.dll
+C:\Personal\crudProdutos\projetoProduto\Produto.Infra\bin\Debug\netcoreapp2.1\Produto.Domain.pdb
+C:\Personal\crudProdutos\projetoProduto\Produto.Infra\obj\Debug\netcoreapp2.1\Produto.Infra.csprojAssemblyReference.cache
+C:\Personal\crudProdutos\projetoProduto\Produto.Infra\obj\Debug\netcoreapp2.1\Produto.Infra.AssemblyInfoInputs.cache
+C:\Personal\crudProdutos\projetoProduto\Produto.Infra\obj\Debug\netcoreapp2.1\Produto.Infra.AssemblyInfo.cs
+C:\Personal\crudProdutos\projetoProduto\Produto.Infra\obj\Debug\netcoreapp2.1\Produto.Infra.csproj.CoreCompileInputs.cache
+C:\Personal\crudProdutos\projetoProduto\Produto.Infra\obj\Debug\netcoreapp2.1\Produto.Infra.csproj.CopyComplete
+C:\Personal\crudProdutos\projetoProduto\Produto.Infra\obj\Debug\netcoreapp2.1\Produto.Infra.dll
+C:\Personal\crudProdutos\projetoProduto\Produto.Infra\obj\Debug\netcoreapp2.1\Produto.Infra.pdb
