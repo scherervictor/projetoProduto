@@ -7,3 +7,12 @@ C:\Personal\crudProdutos\projetoProduto\Produto.Domain\obj\Debug\netcoreapp2.1\P
 C:\Personal\crudProdutos\projetoProduto\Produto.Domain\obj\Debug\netcoreapp2.1\Produto.Domain.dll
 C:\Personal\crudProdutos\projetoProduto\Produto.Domain\obj\Debug\netcoreapp2.1\Produto.Domain.pdb
 C:\Personal\crudProdutos\projetoProduto\Produto.Domain\obj\Debug\netcoreapp2.1\Produto.Domain.csprojAssemblyReference.cache
+C:\Personal\crudProdutos\git\projetoProduto\back-end\Produto.Domain\bin\Debug\netcoreapp2.1\Produto.Domain.deps.json
+C:\Personal\crudProdutos\git\projetoProduto\back-end\Produto.Domain\bin\Debug\netcoreapp2.1\Produto.Domain.dll
+C:\Personal\crudProdutos\git\projetoProduto\back-end\Produto.Domain\bin\Debug\netcoreapp2.1\Produto.Domain.pdb
+C:\Personal\crudProdutos\git\projetoProduto\back-end\Produto.Domain\obj\Debug\netcoreapp2.1\Produto.Domain.csprojAssemblyReference.cache
+C:\Personal\crudProdutos\git\projetoProduto\back-end\Produto.Domain\obj\Debug\netcoreapp2.1\Produto.Domain.AssemblyInfoInputs.cache
+C:\Personal\crudProdutos\git\projetoProduto\back-end\Produto.Domain\obj\Debug\netcoreapp2.1\Produto.Domain.AssemblyInfo.cs
+C:\Personal\crudProdutos\git\projetoProduto\back-end\Produto.Domain\obj\Debug\netcoreapp2.1\Produto.Domain.csproj.CoreCompileInputs.cache
+C:\Personal\crudProdutos\git\projetoProduto\back-end\Produto.Domain\obj\Debug\netcoreapp2.1\Produto.Domain.dll
+C:\Personal\crudProdutos\git\projetoProduto\back-end\Produto.Domain\obj\Debug\netcoreapp2.1\Produto.Domain.pdb

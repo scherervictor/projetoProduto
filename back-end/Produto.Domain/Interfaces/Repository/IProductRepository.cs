@@ -6,7 +6,7 @@ namespace Produto.Domain.Interfaces.Repository
 {
     public interface IProductRepository
     {
-        Task Insert(Product product);
+        Task<Product> Insert(Product product);
 
         Task<IEnumerable<Product>> GetAll();
 

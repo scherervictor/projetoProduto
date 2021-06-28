@@ -99,7 +99,9 @@ namespace Produto.Application.Services
 
             var newProduct = ProductMapper.MapUpdate(productDto);
 
-            _productRepository.Update(newProduct);
+            product.Update(newProduct);
+
+            _productRepository.Update(product);
 
             return result;
         }

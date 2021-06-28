@@ -61,7 +61,7 @@ namespace Produto.WebApi
             }
 
             //app.UseHttpsRedirection();
-            app.UseCors(p => p.Build());
+            app.UseCors("mypolicy");
             app.UseMvc();
         }
     }

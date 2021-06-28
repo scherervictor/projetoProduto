@@ -8,11 +8,11 @@ namespace Produto.WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ProdutoController : ControllerApi
+    public class ProductController : ControllerApi
     {
         private readonly IProductService _productService;
 
-        public ProdutoController(IProductService productService)
+        public ProductController(IProductService productService)
         {
             _productService = productService;
         }

@@ -18,31 +18,31 @@ namespace Produto.Infra.Repositories
 
         public async Task<Product> Get(long id)
         {
-            return await _context.Products.FirstOrDefaultAsync(x => x.Id == id);
+            return await _context.Product.FirstOrDefaultAsync(x => x.Id == id);
         }
 
         public async Task<IEnumerable<Product>> GetAll()
         {
-            return await _context.Products.AsNoTracking().ToListAsync();
+            return await _context.Product.AsNoTracking().ToListAsync();
         }
 
-        public Task Insert(Product product)
+        public async Task<Product> Insert(Product product)
         {
-            var result = _context.Products.AddAsync(product);
+            var result = await _context.Product.AddAsync(product);
 
-            _context.SaveChangesAsync();
-            return result;
+            await _context.SaveChangesAsync();
+            return result.Entity;
         }
 
         public void Remove(Product product)
         {
-            _context.Products.Remove(product);
+            _context.Product.Remove(product);
             _context.SaveChangesAsync();
         }
 
         public void Update(Product product)
         {
-            _context.Products.Update(product);
+            _context.Product.Update(product);
             _context.SaveChangesAsync();
         }
     }

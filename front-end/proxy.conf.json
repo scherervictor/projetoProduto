@@ -1,0 +1,18 @@
+{
+    "/api/ponto/listar": {
+      "target": "http://localhost:51288",
+      "secure": true,
+      "pathRewrite": {
+      "^/api/ponto/listar": ""
+    },
+      "changeOrigin": true
+    },
+    "/api/ponto/registrar": {
+      "target": "http://localhost:51288",
+      "secure": true,
+      "pathRewrite": {
+      "^/api/ponto/registrar": ""
+    },
+      "changeOrigin": true
+    }
+  }

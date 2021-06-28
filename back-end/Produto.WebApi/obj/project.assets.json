@@ -11956,11 +11956,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.WebApi\\Produto.WebApi.csproj",
+      "projectUniqueName": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.WebApi\\Produto.WebApi.csproj",
       "projectName": "Produto.WebApi",
-      "projectPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.WebApi\\Produto.WebApi.csproj",
+      "projectPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.WebApi\\Produto.WebApi.csproj",
       "packagesPath": "C:\\Users\\victor.scherer\\.nuget\\packages\\",
-      "outputPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.WebApi\\obj\\",
+      "outputPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victor.scherer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11977,11 +11977,11 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Application\\Produto.Application.csproj": {
-              "projectPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Application\\Produto.Application.csproj"
+            "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Application\\Produto.Application.csproj": {
+              "projectPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Application\\Produto.Application.csproj"
             },
-            "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Infra\\Produto.Infra.csproj": {
-              "projectPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Infra\\Produto.Infra.csproj"
+            "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Infra\\Produto.Infra.csproj": {
+              "projectPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Infra\\Produto.Infra.csproj"
             }
           }
         }

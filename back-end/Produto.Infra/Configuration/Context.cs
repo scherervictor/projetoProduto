@@ -12,7 +12,7 @@ namespace Produto.Infra.Configuration
             _sqlConfiguration = sqlConfiguration;
         }
 
-        public DbSet<Product> Products { get; set; }
+        public DbSet<Product> Product { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

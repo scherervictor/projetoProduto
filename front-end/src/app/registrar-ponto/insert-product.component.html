@@ -1,0 +1,34 @@
+<form [formGroup]="productForm" (ngSubmit)="onSubmit()">
+  
+    <label>
+        Id:
+        <input type="text" formControlName="id">
+      </label>
+
+    <label>
+      Name:
+      <input type="text" formControlName="name">
+    </label>
+
+    <label>
+      Value:
+      <input type="text" formControlName="value">
+    </label>
+
+    <label>
+      ImageURL:
+      <input type="text" formControlName="imageURL">
+    </label>
+  
+    <!-- <label>
+      Entrada ou Saida:
+      <select formControlName="entradaSaida">
+        <option *ngFor="let es of entradaOuSaida" [ngValue]="es">
+          {{ es.nome }}
+        </option>
+      </select>
+    </label> -->
+
+    <button class="button" type="submit">Insert product</button>
+  
+</form>

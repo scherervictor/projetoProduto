@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "igkarHOTASUJ+G9OFIOSU5Gj6OKKBvZC8wfvK3sFV1XuUpKK7l6W6BR/SRgQl5vuUYVbWa8qnHEZYKiqTh83pw==",
+  "dgSpecHash": "qdF7CFW//Zjppbook4bgdJboziElGBug6p14BbmN66JhgAlDPNGV8oqXzEeDGM/S0J/DxYpTZF4dUPYF5YXP0Q==",
   "success": true,
-  "projectFilePath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.WebApi\\Produto.WebApi.csproj",
+  "projectFilePath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.WebApi\\Produto.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victor.scherer\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
     "C:\\Users\\victor.scherer\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",

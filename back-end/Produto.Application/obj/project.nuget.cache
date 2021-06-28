@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aWh9lCPjJC+vk3kZ4cqQOfY0VQMKnVSH/ZHFPTHPaxpshPmNDrMzwUVcc5doj10uWF7o/oYSPolCfLoY4Oa0jg==",
+  "dgSpecHash": "3Cd7oIx1mg9ANAD9l/LaJGH0ug7TE3JJPDmuSdqaWUL65t25PzDiHVLiS8OTW8LBHE1vKHNyfvqQxrDQUjG5Xw==",
   "success": true,
-  "projectFilePath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Application\\Produto.Application.csproj",
+  "projectFilePath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Application\\Produto.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victor.scherer\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
     "C:\\Users\\victor.scherer\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",

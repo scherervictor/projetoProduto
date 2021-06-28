@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Domain\\Produto.Domain.csproj",
+      "projectUniqueName": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Domain\\Produto.Domain.csproj",
       "projectName": "Produto.Domain",
-      "projectPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Domain\\Produto.Domain.csproj",
+      "projectPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Domain\\Produto.Domain.csproj",
       "packagesPath": "C:\\Users\\victor.scherer\\.nuget\\packages\\",
-      "outputPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Domain\\obj\\",
+      "outputPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victor.scherer\\AppData\\Roaming\\NuGet\\NuGet.Config",

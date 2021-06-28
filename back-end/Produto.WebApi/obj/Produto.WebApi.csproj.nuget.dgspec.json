@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.WebApi\\Produto.WebApi.csproj": {}
+    "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.WebApi\\Produto.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Application\\Produto.Application.csproj": {
+    "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Application\\Produto.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Application\\Produto.Application.csproj",
+        "projectUniqueName": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Application\\Produto.Application.csproj",
         "projectName": "Produto.Application",
-        "projectPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Application\\Produto.Application.csproj",
+        "projectPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Application\\Produto.Application.csproj",
         "packagesPath": "C:\\Users\\victor.scherer\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Application\\obj\\",
+        "outputPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victor.scherer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Domain\\Produto.Domain.csproj": {
-                "projectPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Domain\\Produto.Domain.csproj"
+              "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Domain\\Produto.Domain.csproj": {
+                "projectPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Domain\\Produto.Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Domain\\Produto.Domain.csproj": {
+    "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Domain\\Produto.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Domain\\Produto.Domain.csproj",
+        "projectUniqueName": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Domain\\Produto.Domain.csproj",
         "projectName": "Produto.Domain",
-        "projectPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Domain\\Produto.Domain.csproj",
+        "projectPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Domain\\Produto.Domain.csproj",
         "packagesPath": "C:\\Users\\victor.scherer\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Domain\\obj\\",
+        "outputPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victor.scherer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -126,14 +126,14 @@
         }
       }
     },
-    "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Infra\\Produto.Infra.csproj": {
+    "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Infra\\Produto.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Infra\\Produto.Infra.csproj",
+        "projectUniqueName": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Infra\\Produto.Infra.csproj",
         "projectName": "Produto.Infra",
-        "projectPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Infra\\Produto.Infra.csproj",
+        "projectPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Infra\\Produto.Infra.csproj",
         "packagesPath": "C:\\Users\\victor.scherer\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Infra\\obj\\",
+        "outputPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victor.scherer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -150,8 +150,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Domain\\Produto.Domain.csproj": {
-                "projectPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Domain\\Produto.Domain.csproj"
+              "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Domain\\Produto.Domain.csproj": {
+                "projectPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Domain\\Produto.Domain.csproj"
               }
             }
           }
@@ -195,14 +195,14 @@
         }
       }
     },
-    "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.WebApi\\Produto.WebApi.csproj": {
+    "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.WebApi\\Produto.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.WebApi\\Produto.WebApi.csproj",
+        "projectUniqueName": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.WebApi\\Produto.WebApi.csproj",
         "projectName": "Produto.WebApi",
-        "projectPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.WebApi\\Produto.WebApi.csproj",
+        "projectPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.WebApi\\Produto.WebApi.csproj",
         "packagesPath": "C:\\Users\\victor.scherer\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.WebApi\\obj\\",
+        "outputPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victor.scherer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -219,11 +219,11 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Application\\Produto.Application.csproj": {
-                "projectPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Application\\Produto.Application.csproj"
+              "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Application\\Produto.Application.csproj": {
+                "projectPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Application\\Produto.Application.csproj"
               },
-              "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Infra\\Produto.Infra.csproj": {
-                "projectPath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Infra\\Produto.Infra.csproj"
+              "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Infra\\Produto.Infra.csproj": {
+                "projectPath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Infra\\Produto.Infra.csproj"
               }
             }
           }

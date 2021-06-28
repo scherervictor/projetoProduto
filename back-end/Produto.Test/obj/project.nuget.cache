@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kVNOYxTR9UhFIa1XYo0wZiL2dxYhcOvcvPeMKAjgtCNSwGg99rs/P1sC0kztIhKEa+LfVpsP09XJP2naBQ/Wnw==",
+  "dgSpecHash": "QGuona4wUkq8hOhtcpJF4FGMY89NeJ3qqgT6w7jl87OjtQizJo7Nj6IGNIJveq37Mxb50Z8JEN4yVmAUCFIjQQ==",
   "success": true,
-  "projectFilePath": "C:\\Personal\\crudProdutos\\projetoProduto\\Produto.Test\\Produto.Test.csproj",
+  "projectFilePath": "C:\\Personal\\crudProdutos\\git\\projetoProduto\\back-end\\Produto.Test\\Produto.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victor.scherer\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\victor.scherer\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
